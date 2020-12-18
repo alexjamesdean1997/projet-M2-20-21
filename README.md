@@ -35,13 +35,13 @@ Projet d'outil numérique plutôt libre
 Faire une pull request sur ce repo sur le modèle suivant :
 
 ```md
-### David Bruant
+### Alexandre Dean
 
-<description brève ou "en refléxion">
+Birthdays, un outils pour ne plus oublier de souhaiter un joyeux anniversaire à ses proches. L’application mobile permet de saisir la date d’anniversaire d’une personne pour recevoir une notification le jour de l’anniversaire. Technologie utilisé : React Native.
 
-<lien vers le github (si dispo)>
+Repo : https://github.com/alexjamesdean1997/Birthdays
 
-<lien vers un blog ou page d'accueil (si dispo)>
+Mon site : https://alexdeanwebdesign.com
 
 ```
 
